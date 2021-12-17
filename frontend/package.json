@@ -6,7 +6,7 @@
     "webpack-cli": "^4.1.0"
   },
   "scripts": {
-    "dev": "webpack serve --watch"
+    "dev": "webpack serve --watch --host 0.0.0.0"
   },
   "name": "frontend",
   "version": "1.0.0",
